@@ -1,1 +1,3 @@
 # count the number of digits in a given integer
+example: input- 244
+output- 3
