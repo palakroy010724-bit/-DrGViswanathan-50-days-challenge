@@ -1,0 +1,4 @@
+#print all prime numbers between a given range of integers
+example: input- lower:3
+                upper:20
+        output- 3,5,7,11,13,17,19
