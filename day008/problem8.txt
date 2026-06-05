@@ -1,0 +1,2 @@
+# represent projectile motion on 
+line graph, taking initial velocity and angle of velocity(theta) as input.

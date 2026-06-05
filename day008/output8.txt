@@ -1,0 +1,2 @@
+enter angle(in degrees):45
+enter initial velocity(m/sec):8
