@@ -1,0 +1,4 @@
+enter integer a:4
+enter integer b:5
+a= 5
+b= 4
