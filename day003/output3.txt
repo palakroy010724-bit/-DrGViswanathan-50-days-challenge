@@ -1,0 +1,2 @@
+enter your integer:54652
+number of digits the given number has= 5
