@@ -1,1 +1,3 @@
-# exchange the values of a and b.
+# exchange the values of a and b
+example: input- a=2, b=7
+output- b=2, a=7
