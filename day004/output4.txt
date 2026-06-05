@@ -1,0 +1,2 @@
+enter your integer:15558
+reversed integer= 85551
