@@ -1,0 +1,4 @@
+enter list(seperatd by commas):4,5,2,8,3
+middle element: [2, 8, 3]
+enter list(seperatd by commas):7,5,2,3,6,4
+middle element: [3, 6, 4]
