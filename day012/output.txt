@@ -1,0 +1,7 @@
+enter list 1:1,4,5,2
+enter list 2:3,3,7,5,8
+merged sorted linked list: [1, 2, 3, 3, 4, 5, 5, 7, 8]
+
+enter list 1:7,8,2,5,12,1
+enter list 2:1,2,5,88,2,1,45
+merged sorted linked list: [1, 1, 1, 2, 2, 2, 5, 5, 7, 8, 12, 45, 88]
