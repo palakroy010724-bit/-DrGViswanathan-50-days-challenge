@@ -1,0 +1,5 @@
+enter your integer:21
+digital root of your integer: 3
+
+enter your integer:18
+digital root of your integer: 9
