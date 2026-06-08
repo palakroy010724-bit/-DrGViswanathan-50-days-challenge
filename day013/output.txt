@@ -1,0 +1,8 @@
+enter number:45
+false
+
+enter number:6
+true
+
+enter number:496
+true
