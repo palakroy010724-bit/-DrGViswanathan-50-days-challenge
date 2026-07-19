@@ -1,0 +1,7 @@
+enter lower limit:4
+enter upper limit:10
+number of odd numbers: 3
+
+enter lower limit:5
+enter upper limit:10
+number of odd numbers: 2
